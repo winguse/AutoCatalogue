@@ -1,0 +1,1 @@
+this file was created on Thu. 08th September 2011 at 22:26:43, after ecoder checked the permissions of the folder /home/winguse/workspace/php/AutoCatalogue/js/.

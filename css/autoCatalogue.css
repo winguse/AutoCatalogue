@@ -1,0 +1,95 @@
+body {
+	padding-top: 40px;
+	padding-bottom: 10px;
+	min-width:580px;
+}
+header {
+	margin: 18px 0;
+	padding-bottom:18px;
+	border-bottom: 1px solid #EEE;
+}
+#logo{
+	float: left;
+	width:50px;
+	height:40px;
+	padding:0px 90px 0px 50px;
+}
+.main_text p{
+	text-indent:2em;
+}
+#logo-left{
+	margin-left:180px;
+	height:40px;
+}
+#messageOuter{
+	position:relative;
+	text-align: center;
+	height: 0px;
+	overflow: visible;
+	display: none;
+}
+#messageContainer{
+	display: inline;
+	position: relative;
+	top:-8px;
+	padding:2px 5px;
+}
+#fetch-control,#history-control{
+	padding:10px 20px;
+	height:28px;
+}
+#fetch-control-left{
+	margin-right:280px;
+}
+#fetch-control-right{
+	width:230px;
+	float:right;
+	margin:0px;
+}
+#history-control-left{
+	margin-right:140px;
+}
+#history-control-right{
+	width:100px;
+	float:right;
+	margin:0px;
+}
+#current-source{
+	padding:0 5px;
+}
+#source{
+	width:120px;
+}
+#fetch-control .search-query,#history-control .search-query{
+	width:100%;
+}
+#fetch-results,#fetch-historys{
+}
+#fetch_item_list,#history_item_list,#settings_list{
+	width:180px;
+}
+#fetch_item_main,#history_item_main,#settings_main{
+	min-height: 420px;
+	margin-left:180px;
+	padding-left:19px;
+	border-left:1px solid #e5e5e5;
+}
+#history_item_main input{
+	display:none;
+}
+.edit-control{
+	background-color:#eee;
+	padding:8px 0px;
+	margin:0;
+	text-align: center;
+	display: none;
+}
+.p_row{
+	display: table;
+}
+.p_row input{
+	margin:8px 0px;
+}
+.accordion-inner{
+	min-height:340px;
+}
