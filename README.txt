@@ -1,14 +1,14 @@
-ÊÚÈ¨Ð­ÒéÇë²Î¼û£ºLICENSE.TXT 
+ï»¿æŽˆæƒåè®®è¯·å‚è§ï¼šLICENSE.TXT 
 
-DatabaseDesignÎÄ¼þ¼ÐÎªµ¼³öºóµÄÊý¾Ý¿â¡£
+DatabaseDesignæ–‡ä»¶å¤¹ä¸ºå¯¼å‡ºåŽçš„æ•°æ®åº“ã€‚
 
-²¿Êð²½Öè£º
-1.ÓÃDatabaseDesignÖÐµÄCreateTable.sql´´½¨Êý¾Ý¿â£¬²¢µ¼ÈëÊý¾Ý£¬ÆäÖÐautocatalogue_FetchConfig.sqlÎª±ØÑ¡£¬ÓÃ»§±í±ØÐëÓÐÒ»¸öIDÎª1µÄÓÃ»§£¬½¨ÒéÈ«²¿µ¼Èë¡£
-2.ÐÞ¸Äinclude/systemConfig.php¶ÔÓ¦µÄÊý¾Ý¿âÁ¬½ÓÓÃ»§Ãû¼°Ïà¹ØÅäÖÃÈçSYSBASEPATH¡£
-3.½âÑ¹ËõÓÐ´úÂë¡£
+éƒ¨ç½²æ­¥éª¤ï¼š
+1.ç”¨DatabaseDesignä¸­çš„CreateTable.sqlåˆ›å»ºæ•°æ®åº“ï¼Œå¹¶å¯¼å…¥æ•°æ®ï¼Œå…¶ä¸­autocatalogue_FetchConfig.sqlä¸ºå¿…é€‰ï¼Œç”¨æˆ·è¡¨å¿…é¡»æœ‰ä¸€ä¸ªIDä¸º1çš„ç”¨æˆ·ï¼Œå»ºè®®å…¨éƒ¨å¯¼å…¥ã€‚
+2.ä¿®æ”¹include/systemConfig.phpå¯¹åº”çš„æ•°æ®åº“è¿žæŽ¥ç”¨æˆ·ååŠç›¸å…³é…ç½®å¦‚SYSBASEPATHã€‚
+3.è§£åŽ‹ç¼©æœ‰ä»£ç ã€‚
 
 
-Çë±£ÁôÊðÃû¡£
+è¯·ä¿ç•™ç½²åã€‚
 
-×÷Õß£º³ÌÓ±Óî
+ä½œè€…ï¼šç¨‹é¢–å®‡
 2012-6-27
